@@ -1,0 +1,10 @@
+*.iml
+.gradle
+/Router_CNC/local.properties
+/Router_CNC/.idea/libraries
+/Router_CNC/.idea/modules.xml
+/Router_CNC/.idea/workspace.xml
+.DS_Store
+/Router_CNC/build
+/Router_CNC/captures
+.externalNativeBuild
