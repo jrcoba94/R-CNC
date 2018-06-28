@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.projects.r_cnc.routercnc">
+    package="com.example.r.router_cnc">
 
     <application
         android:allowBackup="true"
